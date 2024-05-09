@@ -93,3 +93,14 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
 - [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+
+
+## Otimização de Desempenho
+
+Ao considerar a sugestão de otimização de áreas lentas ou que consomem muitos recursos em um projeto, algumas alternativas podem ser consideradas:
+
+### Utilização de caches
+
+Considere o uso de caches para armazenar resultados de consultas ou cálculos frequentes. Isso pode reduzir a carga no servidor e melhorar o tempo de resposta.
+
+
